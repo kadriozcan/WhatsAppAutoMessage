@@ -1,4 +1,4 @@
-import webbrowser, pyautogui, time, pandas, pywhatkit
+import  pandas, pywhatkit
 
 message = "Deneme mesaji"
 
